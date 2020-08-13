@@ -1,0 +1,23 @@
+29th July 2020 | Day 2
+_____________________________________________________
+
+1. Write a program to swap two variables.
+i)using three variable. [Hint: use an temporary variable]
+ii)using two variable. 
+[Hint : The idea is to get sum in one of the two given numbers. The numbers can then be swapped using the sum and subtraction from sum.]
+
+---------------------------------
+
+2. Write a program that takes a number as input and prints its multiplication table upto 10.
+Test Data:
+Input a number: 8
+Expected Output :
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+ ...
+8 x 10 = 80
+
+---------------------------------------
+
+3.  Write a program for the factorial of a given number 

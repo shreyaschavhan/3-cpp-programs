@@ -1,0 +1,41 @@
+Day 009 - 8th August 2020
+====================================
+
+1. create a pattern like this using for loop:
+Sample output:
+rows = 4
+
+# # # #
+# # # # 
+# # # # 
+# # # #
+
+Hint: 
+1. take input how many rows user want!
+2. use for loop to print the given pattern.
+
+==========================================================
+
+
+2. Create an upside down star pyramid using loops.
+             ******
+             *****
+             ****
+             ***
+             **
+             *
+
+============================================================
+
+3. Create an star pyramid using loops.
+             *
+             **
+             ***
+             ****
+             *****
+             ******
+=============================================================
+concept: 
+python: https://www.youtube.com/watch?v=k8SXsT5TLxQ
+c++ : https://www.youtube.com/watch?v=zs3dOgzzW3U
+

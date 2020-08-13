@@ -1,0 +1,23 @@
+Day 011 - 10th August 2020
+-------------------------------------------------------
+
+1. A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
+   Ask user for their salary and year of service and print the net bonus amount.
+
+=========================================================
+
+2. Calculate the sum of digits of a number given by user. E.g.-
+   INPUT : 123        OUTPUT : 1 + 2 + 3 = 6
+   INPUT : 12345      OUTPUT : 1 + 2 + 3 + 4 + 5 = 15
+
+Hint = Same logic as Armstrong number wala program!
+=========================================================
+
+3. Ask user to enter age, sex ( M or F ), marital status ( Y or N ) and then using following rules print their place of service.
+   if employee is female, then she will work only in urban areas.
+
+   if employee is a male and age is in between 20 to 40 then he may work in anywhere
+
+   if employee is male and age is in between 40 t0 60 then he will work in urban areas only.
+
+   And any other input of age should print "ERROR".

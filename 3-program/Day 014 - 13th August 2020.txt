@@ -1,0 +1,28 @@
+Day 014 - 13th August 2020
+================================================
+
+[Note - Solve using Functions]
+Concept - If-Else statements.......
+
+1. Write a program to check whether a character is uppercase or lowercase.
+Hint: https://www.geeksforgeeks.org/isupper-islower-application-c/
+
+==========================================================================
+
+2. Write a program to angles of a triangle and check whether triangle is valid 
+or not.
+Hint: Sum of Angles of triangle = 180;
+
+==========================================================================
+
+3. Write a program to input any character and check whether it is alphabet, digit
+ or special character.
+Hint:   "a-z" or "A-Z" is alphabet
+	"0-9" is digit.
+	any other input is special character
+
+
+===========================================================================
+
+https://www.w3schools.com/cpp/cpp_conditions.asp
+https://www.w3schools.com/cpp/cpp_conditions_shorthand.asp

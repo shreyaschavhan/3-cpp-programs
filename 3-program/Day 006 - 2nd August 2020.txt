@@ -1,0 +1,19 @@
+Day 006 - 2nd August 2020
+___________________________________
+
+1. Write a program to calculate the sum of three given numbers, if the values are equal then return three times of their sum.
+
+Ex. if the three no. for example are 1 , 2 , 3 then ans = 1 + 2 + 3 = 6
+if the three no. for example are 3, 3 , 3 then since 3 = 3 = 3 , ans = (3 + 3 + 3) * 3
+
+2 Write a program to print an string number of times user want.
+
+Sample output
+Enter the string: Hello, World!
+How many times you want to print? : 3
+Output:
+Hello, world!
+Hello, world!
+Hello, world!
+
+3. Write a program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user.

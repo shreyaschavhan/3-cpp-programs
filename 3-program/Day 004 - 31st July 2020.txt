@@ -1,0 +1,12 @@
+Day 4 - 31st July 2020 
+__________________________________________
+
+1. Write a program to check if the entered alphabet is a vowel or consonant  (consider lower case only)
+
+2. Write a program which accepts the radius of a circle from the user and compute the area.
+
+3. Assign grades (A, B, C) based on marks obtained by a student.
+
+if the percentage is above 90, assign grade A
+if the percentage is above 75, assign grade B
+if the percentage is above 65, assign grade C

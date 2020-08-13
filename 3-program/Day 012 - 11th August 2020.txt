@@ -1,0 +1,14 @@
+Day 012 - 11th August 2020
+=============================================
+
+(Note : use the functions in all the solutions of the problem statement)
+
+1. Write a program using function to add the given numbers. (numbers can be negative or positive, and no limit for the input numbers)
+
+-----------------------------------------------------
+
+2. Create a function that can accept two arguments name and age and print its value.
+
+-----------------------------------------------------
+
+3. Create a function showEmployee() in such a way that it should accept employee name, and it’s salary and display both, and if the salary is missing in function call it should show it as 9000

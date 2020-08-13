@@ -1,0 +1,27 @@
+Day three - 30th July 2020
+_____________________________________
+
+1. Write a program that asks the user for their name, age and height in ft.
+first of all greets them with their name.
+then print out the data they have entered!
+Expected Output:
+Enter Your Name: Shreyas
+How old are you?: 18
+How tall you are?(in ft)[if you don't know exactly, tell approx]: 6 y
+
+
+"Hi, Shreyas! Nice to have you here! Enjoy your day! Have a nice day ahead"
+
+Your Input: 
+Your name: "Shreyas"
+Your Age: "18"
+Your Height(ft): "6"
+
+------------------------------------------
+
+2. Modify the previous program so that the program only works if the users are "Rutuja" and "Avanti". 
+
+-----------------------------------------------------
+
+3. Write a simple calculator that asks for two numbers and prints their sum, multiplication, subtraction and division.
+  
