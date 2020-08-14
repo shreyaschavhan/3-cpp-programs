@@ -1,0 +1,21 @@
+Day 015 - 14th August 2020
+=========================================================
+
+concept : if elses statements...
+
+1. Write a program to check whether the triangle is equilateral, isosceles or scalene triangle.
+
+==========================================================
+
+2. Write a program that accepts three numbers from the user and prints "increasing" if the numbers are in increasing order,
+ "decreasing" if the numbers are in decreasing order, and "Neither increasing or decreasing order"
+  otherwise. 
+==========================================================
+
+3. Write a program that accepts two floating­point numbers and checks whether they are the same up to two decimal places.
+
+Example: 
+
+num1 = 25.585 ----> (25.58 - upto 2 decimals)
+num2 = 25.589 ----> (25.58 - upto 2 decimals)
+Therefore, both numbers are same!
