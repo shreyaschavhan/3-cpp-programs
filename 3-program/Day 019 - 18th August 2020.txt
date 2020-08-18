@@ -1,0 +1,20 @@
+Day 019 - 18th August 2020
+===============================================
+
+(Note: Solve using For-loop - compulsory)
+
+1. Write a program to print the first 10 natural numbers.
+Sample Output: 
+1 2 3 4 5 6 7 8 9 10
+-------------------------------------------------
+
+2. Modify the above program to find the sum of first n natural numbers using for loops.
+Sample output:
+Enter the value of n: 10
+The first 10 natural numbers are:
+1 2 3 4 5 6 7 8 9 10
+The sum of first 10 natural numbers: 55
+
+--------------------------------------------------
+
+3. Write a program to find the sum of the series (1*1) + (2*2) + (3*3) + (4*4) + (5*5) + ... + (n*n)
