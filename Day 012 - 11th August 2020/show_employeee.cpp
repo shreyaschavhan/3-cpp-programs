@@ -12,23 +12,19 @@ void showEmployee(){
   string name;
   string salary;
   cout << "Enter your name: ";
-  getline(cin, name);   // new concept learned
+  getline(cin, name);
+  cout << endl << "Note: Enter 'Q/q' for no input!" << endl;
   cout << "\nEnter your salary: ";
-  //   if (cin.get() == '\n' ){
-  //   cout << "Your Name: " << name << endl;
-  //   cout << "Your Salary: 9000" << endl;
-  // }
-  // else {
-  //    cin >> salary;
-  //   // double new_salary = stof(salary);       // new concept
-  //   cout << "Your Name: " << name << endl;
-  //   cout << "Your Salary: " << salary << endl;
-  // }
-  while (cin.ignore()){
-      // cin >> salary;
-      double new_salary = stof(salary);       // new concept
-      cout << "Your Name: " << name << endl;
-      cout << "Your Salary: " << salary << endl;
+  cin >> salary;
+  if (salary == "Q" || salary == "q"){
+    cout << "Your Name: " << name << endl;
+    cout << "Your Salary: 9000" << endl;
+  }
+  else{
+    double new_salary = stof(salary);       // new concept: converting string to float value
+    cout << "Your Name: " << name << endl;
+    cout << "Your Salary: " << salary << endl;
+
   }
 }
 
@@ -37,4 +33,6 @@ int main(){
     showEmployee();
     return 0;
 }
+
+
 // new concept learned: https://www.programiz.com/cpp-programming/string-float-conversion

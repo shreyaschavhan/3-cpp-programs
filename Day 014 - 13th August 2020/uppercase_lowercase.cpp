@@ -17,8 +17,11 @@ void uppercase_lowercase(char character){
   if (isupper(character)){
     cout << "The character "<< character << " is uppercase." << endl;
   }
-  else{
+  else if(islower(character)) {
     cout << "The character " << character << " is lowercase." << endl;
+  }
+  else{
+    cout << "It is not an Alphabet.";
   }
 }
 
