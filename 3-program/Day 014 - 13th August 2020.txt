@@ -9,7 +9,7 @@ Hint: https://www.geeksforgeeks.org/isupper-islower-application-c/
 
 ==========================================================================
 
-2. Write a program to angles of a triangle and check whether triangle is valid 
+2. Write a program to input angles of a triangle and check whether triangle is valid 
 or not.
 Hint: Sum of Angles of triangle = 180;
 

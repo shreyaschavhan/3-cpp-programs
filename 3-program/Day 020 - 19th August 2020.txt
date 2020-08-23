@@ -1,0 +1,31 @@
+Day 020 - 19th August 2020
+=====================================================
+
+1. Given the participant's score sheet for your University Sports Day, you
+are requierd to find the runner-up score. You are given n scores. Find the score of the runner-up.
+
+Sample input:
+2 3 6 5 10
+
+Sample output: 
+6
+
+Hint: Print the Second maximum score.
+
+-------------------------------------------------------
+
+2. Write a program to print the following output:
+123..............n {limit the n for constraint: 1 <= n <= 150, take the input from user
+for the value of n}
+Note: that "........." represents the consecutive values in between.
+Sample Input: n = 5
+Sample Output: Output: 12345
+
+------------------------------------------------------
+
+3. Given an integer, n, perform the following conditional actions:
+
+If n is odd, print Weird
+If n is even and in the inclusive range of 2 to 5, print Not Weird
+If n is even and in the inclusive range of 6 to 20, print Weird
+If n is even and greater than 20, print Not Weird

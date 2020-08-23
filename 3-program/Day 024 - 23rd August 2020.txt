@@ -1,0 +1,21 @@
+Day 024 - 23rd August 2020
+__________________________________
+
+Revision Questions
+-----------------------------
+
+1. Write a program to sum of three given integers. However, if two values are equal it should output zero.
+Ex. if the three numbers are 1, 2, 3 (any different numbers), then print 1 + 2 + 3 = 6
+if the three numbers for example are 2, 1, 2, since two numbers are same, then print 0
+
+===========================================================
+
+2. Write a program to sum of two given integers. However, if the sum is between 15 to 20 it should return 20. 
+Ex. a) 10 + 6 = 16 | since the sum is in between 15 - 20, print 20
+b) 10 + 12 = 22 | print 22 (since not in between 15 - 20)
+
+===========================================================
+
+3. Write a program to solve (x + y) * (x + y).
+Test Data : x = 4, y = 3
+Expected Output : (4 + 3) ^ 2 = 49
